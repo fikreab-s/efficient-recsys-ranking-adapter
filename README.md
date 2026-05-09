@@ -45,3 +45,9 @@ Near-parity accuracy with 4x lower latency — ideal for real-time edge recommen
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![comparison](viz/comparison.png)
+
+---
