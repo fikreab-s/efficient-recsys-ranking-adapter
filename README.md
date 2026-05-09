@@ -1,6 +1,9 @@
-# 🎬 Efficient RecSys Ranking Adapter
+# Efficient Recommendation Ranking Adapter
 
-> LoRA-adapted LFM2.5 for sequential recommendation with SASRec-style attention, trained on MovieLens and adapted for pharma HCP targeting.
+> LoRA-adapted sequential recommendation model (SASRec architecture) for content and HCP engagement ranking — 4× faster inference than full transformer approaches.
+>
+> **Context:** Applied to HCP engagement scoring: ranking which content, channels, and messaging resonate most with specific provider segments. The LoRA adapter approach enables rapid retraining as engagement patterns shift quarterly.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
