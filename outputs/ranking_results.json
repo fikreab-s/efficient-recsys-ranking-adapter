@@ -1,0 +1,10 @@
+{
+  "sasrec_base": {
+    "mean_ndcg": 0.8902,
+    "std": 0.0583
+  },
+  "lora_adapted": {
+    "mean_ndcg": 0.9374,
+    "std": 0.0422
+  }
+}
